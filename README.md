@@ -11,6 +11,8 @@ Run a focused job search with Claude. Every weekday morning a scheduled task sea
 | `PLAYBOOK.md` | The full process, including resume and LinkedIn optimisation, with prompts for each step. Start here. |
 | `tracker/job-tracker.html` | The tracker dashboard. Claude publishes it as a private artifact for you. |
 | `prompts/daily-search.md` | The scheduled-task prompt template that runs the morning search. |
+| `prompts/linkedin-optimizer.md` | Prompt and checklist for rewriting your LinkedIn profile for the target role. |
+| `prompts/resume-update.md` | Prompt for updating your resume .docx without losing its formatting. |
 | `config/profile.example.json` | The settings document the tracker and daily run read. |
 
 ## Requirements
