@@ -1,0 +1,18 @@
+{
+  "name": "Your Name",
+  "tracker_title": "Job Hunt Tracker",
+  "tracker_subtitle": "Remote and relocation roles in AI engineering. New jobs arrive every weekday morning; you apply and update the status here.",
+  "experience_years": 7,
+  "target_titles": ["AI Engineer", "LLM Engineer", "AI Data Engineer", "ML Platform Engineer"],
+  "regions": ["Remote (open to India)", "Germany", "Luxembourg"],
+  "region_labels": ["Remote", "Germany", "Luxembourg", "Other EU"],
+  "require_visa_or_relocation_for_onsite": true,
+  "english_only": true,
+  "packs_per_day": 5,
+  "max_years_asked": 8,
+  "exclude_company_types": ["IT services / consulting", "Staffing agency (unnamed client)"],
+  "resume_asset_id": "<id of the plain-text resume uploaded to the tracker>",
+  "resume_pdf_asset_id": "<id of the master CV PDF uploaded to the tracker>",
+  "resume_pdf_name": "Your Name - CV.pdf",
+  "resume_docx_b64_asset_id": "<id of the master CV .docx, base64-encoded as a .txt, uploaded to the tracker>"
+}
